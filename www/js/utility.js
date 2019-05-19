@@ -1,8 +1,8 @@
 var utility = (function() {
     return {
-     base_url: "http://appgenny.com/",
-     base_url_api: "http://api.appgenny.com/api/vi/",
-     base_url_api2: "http://api.appgenny.com/api/v1/",
+     base_url: "http://appqubz-001-site1.etempurl.com/",
+     base_url_api: "http://appqubz-001-site2.etempurl.com/api/vi/",
+     base_url_api2: "http://appqubz-001-site2.etempurl.com/api/v1/",
      get_application_setting: "GetApplicationSetting/PakegName?pakgeName=",
      get_feature_App: "GetFeatureApp/PakegName?pakgeName=",
      get_app_slider: "GetAppSlider/PakegName?pakgeName=",
